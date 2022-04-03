@@ -1,0 +1,1 @@
+        $('#registerButton2').closest("#wrapper").addClass('booking-check-out');
